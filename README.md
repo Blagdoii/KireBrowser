@@ -1,5 +1,6 @@
 # KireBrowser
 A open-source mod for Chrome
+(Use Chrome anonymously)
 
 [fork my repository](https://github.com/user/repository/fork)
 
